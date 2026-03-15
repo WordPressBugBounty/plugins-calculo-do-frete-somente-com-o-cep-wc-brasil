@@ -1,31 +1,35 @@
+# Portuguese (Brazil) translation for Cálculo do frete somente com o CEP - WC Brasil
 # Copyright (C) 2024 Alvaro Vasconcelos - @alvsconcelos
 # This file is distributed under the GPL-3.0+.
+# Alvaro Vasconcelos <ialvsconcelos@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Cálculo do frete somente com o CEP - WC Brasil 1.2.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/calculo-do-frete-somente-com-o-cep-wc-brasil\n"
 "POT-Creation-Date: 2026-03-15T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-15T00:00:00+00:00\n"
+"Last-Translator: Alvaro Vasconcelos <ialvsconcelos@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"X-Generator: WP-CLI 2.10.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.x\n"
 "X-Domain: wc-br-shipping-only-with-cep\n"
 
 #. Plugin Name of the plugin
 msgid "Cálculo do frete somente com o CEP - WC Brasil"
-msgstr ""
+msgstr "Cálculo do frete somente com o CEP - WC Brasil"
 
 #. Description of the plugin
 msgid "Este plugin permite à calculadora de fretes do Woocommerce identificar o Estado (UF) do cliente somente com o CEP."
-msgstr ""
+msgstr "Este plugin permite à calculadora de fretes do Woocommerce identificar o Estado (UF) do cliente somente com o CEP."
 
 #: admin/class-wc-br-shipping-only-with-cep-admin.php:138
 msgid "Ativar máscara no campo de CEP"
-msgstr ""
+msgstr "Ativar máscara no campo de CEP"
 
 #: admin/class-wc-br-shipping-only-with-cep-admin.php:139
 msgid "Ativa a máscara de dígitos no campo de CEP."
-msgstr ""
+msgstr "Ativa a máscara de dígitos no campo de CEP."
